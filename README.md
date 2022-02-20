@@ -1,0 +1,2 @@
+# pythonStudies
+ Estudos em Python! 🖥💻
